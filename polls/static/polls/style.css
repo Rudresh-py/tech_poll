@@ -1,0 +1,89 @@
+h2{
+    color: indigo;
+    font-size: 50px;
+    border-bottom: solid darkblue 2px;
+
+}
+.unorder{
+    border: solid darkblue 3px;
+    height: auto;
+    width: 500px;
+    margin-left: 530px;
+
+}
+
+.detail{
+    border: solid darkblue 3px;
+    height: auto;
+    width: 600px;
+    margin-left: 500px;
+
+}
+
+.anker{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+
+}
+.anker:hover{
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+.button{
+    margin-left: 10px;
+    background-color: red;
+    border-radius: 4px;
+
+}
+
+button{
+    margin-left: 400px;
+    background-color: green;
+    border-radius: 4px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.result{
+    border: solid darkblue 3px;
+    height: auto;
+    width: 600px;
+    margin-left: 500px;
+}
+
+
+.button1{
+    margin-left: 10px;
+    margin-bottom: 9px;
+    background-color: blue;
+    border-radius: 4px;
+
+
+}
+
+.button2{
+    margin-left: 380px;
+    background-color: green;
+    border-radius: 4px;
+
+}
+.table,th,td{
+  border:1px solid black;
+}
+
+.table{
+    margin-left: 15px;
+    height: 150px;
+    width: 350px;
+    margin-bottom: 8px;
+
+}
